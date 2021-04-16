@@ -1,4 +1,22 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:#000000;
+    text-align: center;
+}
+
+h1{
+    color: rgb(129, 125, 125);
 
 
+}
+div{
+
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    width: 600px;
+    height: 320px;
+    align-content: center;
+    
+}
+span{
+    color: black;
+}
